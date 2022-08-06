@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galantixa
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me nugrahafajarrr@gmail.com
 
