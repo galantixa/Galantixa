@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Galantixa
-- 👀 I’m interested in Backend dev
-- 🌱 I’m currently learning JavaScript, Go, Python
-- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me nugrahafajarrr@gmail.com
 
 <!---
