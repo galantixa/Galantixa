@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Galantixa
+- 👋 Hi, I’m @galantixa
 - 📫 How to reach me nugrahafajarrr@gmail.com
 
 <!---
