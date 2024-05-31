@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Galantixa,<br><br>I am a DevOps engineer who has enthusiasm and determination to explore the world of Information Technology. With a focus on the role of a DevOps Engineer, I have a strong dream to start an exciting career in the IT industry.<br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning DevOps & Blockchain Engineering<br>- ⚡ I Love Philosophy</p>
+<p align="left">I'm Galantixa,<br><br>DevOps enthusiast and blockchain explorer from Southeast Asia<br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning Web3 & Blockchain Engineering<br>- ⚡ I Love Philosophy</p>
 
 ###
 
@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -58,14 +58,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="azure logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  /> -->
-<!--   <img width="12" /> -->
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" /> -->
+  <img src="https://www.svgrepo.com/show/355338/ubuntu.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
@@ -75,8 +75,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -91,6 +89,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="40" alt="kibana logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" alt="elasticsearch logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/380472/blockchain-digital-future-system-security.svg" height="40" alt="blockchain logo"  />
+  <img width="12" />
+  
+  
 </div>
 
 ###
